@@ -1,2 +1,2 @@
 # Rockbuster-SQL
-Rockbuster data analysis through SQL
+Answering business questions by using SQL to analyze data
